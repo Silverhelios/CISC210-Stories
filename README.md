@@ -4,3 +4,4 @@ Create a story about the fireball game, create the JIRA issue, create a branch n
 (README.md), and then do a pull request for your changes.
 
 I am soooo awesome!
+The quick brown fox jumps over the lazy dog.
